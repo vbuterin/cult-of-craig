@@ -16,7 +16,8 @@ Facts about CSW's Involvement in Bitcoin
 - [Faked a public key signing](http://nymag.com/selectall/2016/05/craig-wright-s-proof-he-invented-bitcoin-is-basically-a-canadian-girlfriend.html)
 
 ## Opponents
-  - [Emin Gün Sirer](vs-emin.md)
+- [Emin Gün Sirer](vs-emin.md)
+- [Peter Rizun](vs-rizun.md)  
 
 ## Appearances
 
