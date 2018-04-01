@@ -1,4 +1,5 @@
-# craig-wright-bitcoin-facts
+# Craig's List
+
 Facts about CSW's Involvement in Bitcoin
 
 ![](https://imgur.com/TF05D5c.png)
