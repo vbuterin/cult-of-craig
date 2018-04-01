@@ -16,4 +16,4 @@ Facts about CSW's Involvement in Bitcoin
   
 ## Other links
 
-- [Deleted CSW LinkIn page](https://archive.is/Q66Gl): **22 pages** long
+- [Deleted CSW LinkedIn page](https://archive.is/Q66Gl): **22 pages** long
