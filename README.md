@@ -2,8 +2,6 @@
 
 Facts about CSW's Involvement in Bitcoin
 
-![](https://imgur.com/TF05D5c.png)
-
 ## Social media shenanigans
 - [Sock puppets and fans](sock-puppets.md)
 
