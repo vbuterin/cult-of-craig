@@ -14,6 +14,10 @@ Facts about CSW's Involvement in Bitcoin
 * [Craig faked threats](http://archive.is/YTDGT)
 * [Craigh Wright faked a public key signing](http://archive.is/dNCUX)
 
+## Fraud
+
+* [Craig Wright clamied to own MtGox' bitcoin](http://archive.is/Nf7ix)
+
 ## Opponents
 
 * [Emin Gün Sirer](vs-emin.md)
