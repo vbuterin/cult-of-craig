@@ -6,13 +6,13 @@ Facts about CSW's Involvement in Bitcoin
 
 * [Sock puppets and fans](sock-puppets.md)
 
-## Forgeries
+## Forgeries/fakes
 
-* [Faked blog posts](http://archive.is/t20d4)
-* [Faked PGP keys](http://archive.is/v8kfs)
-* [Faked contracts and emails](http://archive.is/O0CHg)
-* [Faked threats](http://archive.is/YTDGT)
-* [Faked a public key signing](http://archive.is/dNCUX)
+* [Craig Wright faked blog posts](http://archive.is/t20d4)
+* [Cright Wright faked PGP keys](http://archive.is/v8kfs)
+* [Craig Wright forged contracts and emails](http://archive.is/O0CHg)
+* [Craig faked threats](http://archive.is/YTDGT)
+* [Craigh Wright faked a public key signing](http://archive.is/dNCUX)
 
 ## Opponents
 
