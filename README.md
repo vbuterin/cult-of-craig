@@ -22,6 +22,7 @@ Facts about CSW's Involvement in Bitcoin
 
 * Nik Cubrilovic (security expert): [Craig Wright is not Satoshi Nakamoto](https://web.archive.org/web/20160503060225/https://www.nikcub.com/posts/craig-wright-is-not-satoshi-nakamoto/)
 * Peter Rizun: [rejects Craig Wright's claim that Bitcoin can be faster than light speed](http://archive.is/dmp2Y)
+* Charlie Lee (Litecoin inventor): [I can't believe some people still think he's Satoshi](http://archive.is/DeWAu)
 
 ## Craig Wright attacking profilic cryptocurrency experts
 
