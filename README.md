@@ -41,6 +41,8 @@ Facts about CSW's Involvement in Bitcoin
 
 * Video: [A Bitcoin Cash World – Dr. Craig Wright and Jimmy Nguyen](https://www.youtube.com/watch?v=o94cWj8YqYs&feature=youtu.be&t=1405): At 23:25, CSW does not appear to know what [signed/unsigned integers](https://en.wikipedia.org/wiki/Signedness) are
 * Audio: [GQ Releases Hilariously Sweary Audio of Craig Wright Interview](https://news.bitcoin.com/gq-sweary-audio-craig-wright/)
+* Video: [Craig Wright makes nonsensical claims (2014)](https://www.youtube.com/watch?v=4GuqlQvFYJo)
+* Video: [Craig Wright claims to be working on AI, and evolutionary code (obviously never happened)](https://www.youtube.com/watch?v=d0ttVAPKgTA?t=282)
 
 ## Other links
 
