@@ -27,6 +27,7 @@ Facts about CSW's Involvement in Bitcoin
 * Vitalik Buterin (Ethereum inventor) writes 59 tweets about Craig Wright's talk: [Craig Wright _is_ crazy.](https://twitter.com/VitalikButerin/status/981100213568864256)
 * Vitalik Buterin (Ethereum inventor) [refutes Craig Wright's technobabble](https://www.reddit.com/r/btc/comments/8aavhc/after_reading_this_post_it_seems_clear_that/?sort=top). See [#12](https://github.com/abrkn/craig-wright-bitcoin-facts/issues/12) for more
 * Amaury Sechet (Bitcoin ABC lead developer) [refutes Craig Wright's technobabble](https://www.reddit.com/r/btc/comments/8aavhc/after_reading_this_post_it_seems_clear_that/dwx9lf9/). See [#12](https://github.com/abrkn/craig-wright-bitcoin-facts/issues/12) for more
+* Peter Rizun (Bitcoin Unlimited chief scientist) [calls out Craig Wright lying about him](http://archive.is/86tAU)
 
 ## Craig Wright attacking profilic cryptocurrency experts
 
