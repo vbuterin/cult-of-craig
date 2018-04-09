@@ -1,3 +1,3 @@
 # CSW vs Emin
 
-![](https://imgur.com/wN2rkjj.png)
+![](http://archive.is/Bc9vi)
