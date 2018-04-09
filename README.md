@@ -16,12 +16,16 @@ Facts about CSW's Involvement in Bitcoin
 
 ## Fraud
 
-* [Craig Wright clamied to own MtGox' bitcoin](http://archive.is/Nf7ix)
+* [Craig Wright lied about owning MtGox' bitcoin](http://archive.is/Nf7ix)
 
-## Opponents
+## Experts stating Craig Wright is a fraud
 
-* [Emin Gün Sirer](vs-emin.md)
-* [Peter Rizun](vs-rizun.md)
+* Nik Cubrilovic (security expert): [Craig Wright is not Satoshi Nakamoto](https://web.archive.org/web/20160503060225/https://www.nikcub.com/posts/craig-wright-is-not-satoshi-nakamoto/)
+* Peter Rizun: [rejects Craig Wright's claim that Bitcoin can be faster than light speed](http://archive.is/dmp2Y)
+
+## Craig Wright attacking profilic cryptocurrency experts
+
+* [Craig Wright attacks Cornell professor Emin Gün Sirer](http://archive.is/Bc9vi)
 
 ## Appearances
 
