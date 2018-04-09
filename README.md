@@ -44,6 +44,7 @@ Facts about CSW's Involvement in Bitcoin
 * Audio: [GQ Releases Hilariously Sweary Audio of Craig Wright Interview](https://news.bitcoin.com/gq-sweary-audio-craig-wright/)
 * Video: [Craig Wright makes nonsensical claims (2014)](https://www.youtube.com/watch?v=4GuqlQvFYJo)
 * Video: [Craig Wright claims to be working on AI, and evolutionary code (obviously never happened)](https://www.youtube.com/watch?v=d0ttVAPKgTA?t=282)
+* [Craig Wright falsely claims secp256k1 can do pairing](http://archive.is/tkucY). See also [Vitalik Explaining the topic](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
 
 ## Other links
 
