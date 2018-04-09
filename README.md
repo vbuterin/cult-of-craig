@@ -32,6 +32,7 @@ Facts about CSW's Involvement in Bitcoin
 * Paul Sztorc (TruthCoin's chief scientist) [shows how Craig Wright does not know basic math](https://www.reddit.com/r/Bitcoin/comments/6ovsvv/paul_sztorc_reviews_craigh_wrights_segwit_paper/)
 * Andrew O’Hagan (London Review of Books editor) [writes about how Craig Wright was paid $15M to claim he was Satoshi to escape financial difficulties](http://archive.fo/kjuLi#selection-511.0-511.14)
 * [Craig Wright's mom says he's prone to lying](http://archive.fo/kjuLi#selection-1655.0-1655.118)
+* [Krawisz suggests that Craig Wright is over the top to specifically attract a non-technical following](https://www.youtube.com/watch?v=bBqSK0A72D8&feature=youtu.be). See also [Microsoft research paper on Nigerian Prince scam emails](https://maggienotmargaret.com/2012/06/20/nigerian-scam-emails/)
 
 ## Craig Wright attacking profilic cryptocurrency experts
 
