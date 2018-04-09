@@ -33,6 +33,7 @@ Facts about CSW's Involvement in Bitcoin
 * Andrew O’Hagan (London Review of Books editor) [writes about how Craig Wright was paid $15M to claim he was Satoshi to escape financial difficulties](http://archive.fo/kjuLi#selection-511.0-511.14)
 * [Craig Wright's mom says he's prone to lying](http://archive.fo/kjuLi#selection-1655.0-1655.118)
 * [Krawisz suggests that Craig Wright is over the top to specifically attract a non-technical following](https://www.youtube.com/watch?v=bBqSK0A72D8&feature=youtu.be). See also [Microsoft research paper on Nigerian Prince scam emails](https://maggienotmargaret.com/2012/06/20/nigerian-scam-emails/)
+* [In 2010, security expert says Craig Wright's writing is "complete drivel and even laughable"](http://seclists.org/fulldisclosure/2010/Feb/144)
 
 ## Craig Wright attacking profilic cryptocurrency experts
 
