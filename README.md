@@ -18,6 +18,7 @@ Facts about CSW's Involvement in Bitcoin
 
 * [Craig Wright lied about owning MtGox' bitcoin](http://archive.is/Nf7ix)
 * [Craig Wright falsely states he doesn't want fame or money](https://www.youtube.com/watch?v=5DCAC1j2HTY)
+* [Craig Wright claimed in a lawsuit he or his trust controlled an address that belongs to Roger Ver](https://twitter.com/FreedomIsntSafe/status/1129150420247633920)
 
 ## Experts stating Craig Wright is a fraud
 
